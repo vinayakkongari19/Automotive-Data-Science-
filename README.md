@@ -1,8 +1,8 @@
 # Overview
 
-Welcome to the Comprehensive Analysis and Predictive Modeling. This repository showcases an in-depth exploration and analysis of a dataset using advanced data science techniques. The project focuses on leveraging various machine learning algorithms to derive meaningful insights and build predictive models. The primary objective is to demonstrate proficiency in data preprocessing, exploratory data analysis (EDA), feature engineering, model building, and evaluation.
+Welcome to the Automotive_Data_Science Project. This repository showcases an in-depth exploration and analysis of a dataset using advanced data science and analysis techniques. The project focuses on leveraging various machine learning algorithms to derive meaningful insights and build predictive models. The primary objective is to demonstrate proficiency in data preprocessing, exploratory data analysis (EDA), feature engineering, model building, and evaluation.
 
-   In this project, we utilize a variety of tools and libraries including pandas, matplotlib, seaborn, scikit-learn, and more. The key steps include data cleaning, visualization, statistical analysis, and model optimization. Specifically, we implement and fine-tune models like Linear Regression, Decision Trees, and Random Forests to achieve the best predictive performance. This capstone project not only highlights the technical aspects of data science but also emphasizes the importance of interpretability and communication of results.
+   In this project, we utilize a variety of tools and libraries including pandas, matplotlib, seaborn, scikit-learn, and more. The key steps include data cleaning, visualization, statistical analysis, and model optimization. Specifically, we implement and fine-tune models like Linear Regression, Decision Trees, and Random Forests to achieve the best predictive performance. This project not only highlights the technical aspects of data science but also emphasizes the importance of interpretability and communication of results.
 
   
 
